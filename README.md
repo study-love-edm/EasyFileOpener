@@ -124,6 +124,9 @@ The binary file .command.bin is automatically created on first run.
 
 File updates and cache cleaning happen automatically in the background.
 
+any problem for build : do mail : ssasmal287@gmail.com
+
+
 License
 
 (C) 2025 Souvik Sasmal. All rights reserved.
